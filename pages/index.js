@@ -21,7 +21,7 @@ export default function Home() {
         <meta name="twitter:creator" content="@meta-check" />
         <meta
           name="twitter:image"
-          content="https://www.meta-check.netlify.app/v3/static/og-image.png"
+          content="https://www.meta-check.netlify.app/og-image.png"
         />
         <meta property="og:type" content="website" />
         <meta
@@ -29,19 +29,21 @@ export default function Home() {
           content="BasaKhujo: A property searching platform in Bangladesh"
         />
         <meta property="og:site_name" content="Meta-Check" />
-        <meta property="og:url" content="https://meta-check.netlify.app/" />
+        
+        <meta property="og:url" content="https://meta-check.netlify.app" />
         <meta
           property="og:image"
-          content="https://www.meta-check.netlify.app/v3/static/og-image.png"
+          content="https://www.meta-check.netlify.app/og-image.png"
         />
         <meta
           property="og:image:secure_url"
-          content="https://www.meta-check.netlify.app/v3/static/og-image.png"
+          content="https://www.meta-check.netlify.app/og-image.png"
         />
         <meta
           property="og:image:alt"
           content="BasaKhujo: A property searching platform in Bangladesh"
         />
+        <meta property="og:image:type" content="image/png" />
         <meta
           property="og:description"
           content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
