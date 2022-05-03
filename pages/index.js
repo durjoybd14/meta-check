@@ -48,6 +48,11 @@ export default function Home() {
           property="og:description"
           content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
         />
+         <meta
+            name="keywords"
+            content="basakhujo, bachelor mess, female mess, family flat"
+          />
+          <meta name="robots" content="index, follow" />
       </Head>
 
       <main className={styles.main}>
