@@ -30,7 +30,7 @@ export default function Home() {
         />
         <meta property="og:site_name" content="Meta-Check" />
 
-        <meta property="og:url" content="https://meta-check.netlify.app" />
+        <meta property="og:url" content="https://meta-check.netlify.app/" />
         <meta
           property="og:image"
           content="https://res.cloudinary.com/nomidman/image/upload/v1651585650/og-image_qbdvtq.png"
