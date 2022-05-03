@@ -6,21 +6,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <meta charset="utf-8" />
         <title>Meta Check</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta
-          itemProp="name"
-          content="BasaKhujo: A property searching platform in Bangladesh"
-        />
-        <meta
-          itemProp="description"
-          content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
-        />
-        <meta
-          itemProp="image"
-          content="https://res.cloudinary.com/nomidman/image/upload/v1651493754/icon-192x192_xjiau9.webphttps://res.cloudinary.com/nomidman/image/upload/v1651510593/icon-192x192_zcm7e9.png"
-        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@meta-check" />
         <meta
@@ -42,7 +29,7 @@ export default function Home() {
           content="BasaKhujo: A property searching platform in Bangladesh"
         />
         <meta property="og:site_name" content="Meta-Check" />
-        <meta property="og:url" content="https://meta-check.netlify.app/" />
+        <meta property="og:url" content="https://meta-check.netlify.app" />
         <meta
           property="og:image"
           content="https://res.cloudinary.com/nomidman/image/upload/v1651493754/icon-192x192_xjiau9.webphttps://res.cloudinary.com/nomidman/image/upload/v1651510593/icon-192x192_zcm7e9.png"
