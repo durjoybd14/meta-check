@@ -21,7 +21,7 @@ export default function Home() {
         <meta name="twitter:creator" content="@meta-check" />
         <meta
           name="twitter:image"
-          content="../public/og-image.png"
+          content="https://meta-check.netlify.app/v3/static/og-image.png"
         />
         <meta property="og:type" content="website" />
         <meta
@@ -29,42 +29,14 @@ export default function Home() {
           content="BasaKhujo: A property searching platform in Bangladesh"
         />
         <meta property="og:site_name" content="Meta-Check" />
-        <meta property="og:url" content="https://meta-check.netlify.app" />
-        <meta
-          property="og:image"
-          content="../public/og-image.png"
-        />
-        <meta
-          property="og:image:secure_url"
-          content="../public/og-image.png"
-        />
-        <meta
-          property="og:image:alt"
-          content="BasaKhujo: A property searching platform in Bangladesh"
-        />
-        <meta
-          property="og:description"
-          content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
-        />
-        
-      </Head>
-      {/* <Head>
-        <title>Meta Check</title>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta
-          property="og:title"
-          content="BasaKhujo: A property searching platform in Bangladesh"
-        />
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="BasaKhujo" key="ogsitename" />
         <meta property="og:url" content="https://meta-check.netlify.app/" />
         <meta
           property="og:image"
-          content="https://res.cloudinary.com/nomidman/image/upload/v1651493754/icon-192x192_xjiau9.webphttps://res.cloudinary.com/nomidman/image/upload/v1651510593/icon-192x192_zcm7e9.png"
+          content="https://meta-check.netlify.app/v3/static/og-image.png"
         />
         <meta
           property="og:image:secure_url"
-          content="https://res.cloudinary.com/nomidman/image/upload/v1651493754/icon-192x192_xjiau9.webphttps://res.cloudinary.com/nomidman/image/upload/v1651510593/icon-192x192_zcm7e9.png"
+          content="https://meta-check.netlify.app/v3/static/og-image.png"
         />
         <meta
           property="og:image:alt"
@@ -74,12 +46,7 @@ export default function Home() {
           property="og:description"
           content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
         />
-        <link rel="manifest" href="/manifest.json" />
-        <link rel="apple-touch-icon" href="/icon.webp" />
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-
-        <link rel="icon" href="/favicon.ico" />
-      </Head> */}
+      </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
