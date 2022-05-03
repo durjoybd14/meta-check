@@ -64,6 +64,7 @@ export default function Home() {
           property="og:description"
           content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
         />
+        <link rel="image_src" href="https://res.cloudinary.com/nomidman/image/upload/v1651493754/icon-192x192_xjiau9.webphttps://res.cloudinary.com/nomidman/image/upload/v1651510593/icon-192x192_zcm7e9.png" />
       </Head>
       {/* <Head>
         <title>Meta Check</title>
