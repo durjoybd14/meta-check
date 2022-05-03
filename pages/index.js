@@ -21,7 +21,7 @@ export default function Home() {
         <meta name="twitter:creator" content="@meta-check" />
         <meta
           name="twitter:image"
-          content="https://meta-check.netlify.app/v3/static/og-image.png"
+          content="https://www.meta-check.netlify.app/v3/static/og-image.png"
         />
         <meta property="og:type" content="website" />
         <meta
@@ -32,11 +32,11 @@ export default function Home() {
         <meta property="og:url" content="https://meta-check.netlify.app/" />
         <meta
           property="og:image"
-          content="https://meta-check.netlify.app/v3/static/og-image.png"
+          content="https://www.meta-check.netlify.app/v3/static/og-image.png"
         />
         <meta
           property="og:image:secure_url"
-          content="https://meta-check.netlify.app/v3/static/og-image.png"
+          content="https://www.meta-check.netlify.app/v3/static/og-image.png"
         />
         <meta
           property="og:image:alt"
