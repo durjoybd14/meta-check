@@ -19,7 +19,10 @@ export default function Home() {
           content="BasaKhujo is an accommodation solution provider platform that makes it possible to rent a house & mess without paying any brokerage."
         />
         <meta name="twitter:creator" content="@meta-check" />
-        <meta name="twitter:image" content="../public/og-image.png" />
+        <meta
+          name="twitter:image"
+          content="https://res.cloudinary.com/nomidman/image/upload/v1651585650/og-image_qbdvtq.png"
+        />
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
@@ -28,8 +31,14 @@ export default function Home() {
         <meta property="og:site_name" content="Meta-Check" />
 
         <meta property="og:url" content="https://meta-check.netlify.app" />
-        <meta property="og:image" content="../public/og-image.png" />
-        <meta property="og:image:secure_url" content="../public/og-image.png" />
+        <meta
+          property="og:image"
+          content="https://res.cloudinary.com/nomidman/image/upload/v1651585650/og-image_qbdvtq.png"
+        />
+        <meta
+          property="og:image:secure_url"
+          content="https://res.cloudinary.com/nomidman/image/upload/v1651585650/og-image_qbdvtq.png"
+        />
         <meta
           property="og:image:alt"
           content="BasaKhujo: A property searching platform in Bangladesh"
