@@ -5,7 +5,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
+      {/* <Head>
         <title>Meta Check</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -53,7 +53,7 @@ export default function Home() {
             content="basakhujo, bachelor mess, female mess, family flat"
           />
           <meta name="robots" content="index, follow" />
-      </Head>
+      </Head> */}
 
       <main className={styles.main}>
         <h1 className={styles.title}>
